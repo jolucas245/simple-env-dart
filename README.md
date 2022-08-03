@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/LICENSE-MIT-green"/>](https://github.com/jolucas245/simple-env-dart/blob/main/LICENSE)
 [<img src="https://img.shields.io/badge/Language-Dart-skyblue"/>](https://dart.dev)
-[<img src="https://img.shields.io/badge/Code E.-VSCODE-darkblue"/>](https://flutter.dev)
+[<img src="https://img.shields.io/badge/Code E.-VsCode-darkblue"/>](https://flutter.dev)
 [<img src="https://img.shields.io/badge/OS-Arch Linux-cyan"/>](https://archlinux.org)
 
 A simple way to create uses the .env file without generating code like other pub.dev packages.
