@@ -19,6 +19,10 @@ It's a simple way to use .env in Dart without generating extra code like other p
 $ git clone https://github.com/jolucas245/simple-env-dart.git
 ```
 
-2. ##### Enter the cloned repository and copy the **env** folder:<br>
+2. ##### Enter the cloned repository and copy the **environment** folder:<br>
 
-3. ##### :<br>
+3. ##### Inside your Dart or Flutter project, paste the environment folder:<br>
+>For convenience, I create a folder called *utils* inside my Dart/Flutter project and paste the *environment* folder there
+
+4. ##### Create a file called .env at the root of your project:<br>
+![dart](https://user-images.githubusercontent.com/65248543/182527337-eee54a1f-4254-47d3-914c-8a8e39087499.png)
