@@ -5,4 +5,5 @@
 [<img src="https://img.shields.io/badge/Code E.-VsCode-darkblue"/>](https://flutter.dev)
 [<img src="https://img.shields.io/badge/OS-Arch Linux-cyan"/>](https://archlinux.org)
 
-A simple way to create uses the .env file without generating code like other pub.dev packages.
+## About Dart Simple Env
+It's a simple way to use .env in Dart without generating extra code like other pub.dev packages
