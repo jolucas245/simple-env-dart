@@ -9,4 +9,5 @@
 It's a simple way to use .env in Dart without generating extra code like other pub.dev packages
 
 ## Why ❓
-> When I was creating an API using Dart Shelf, a problem arose. Some sensitive information was being passed directly to code (called Hard Code). This information, depending on the development or production environment, ends up changing.
+> When I was creating an API using Dart Shelf, a problem arose. Some sensitive information was being passed directly to code (called Hard Code). This information, depending on the development or production environment, ends up changing. There are even some packages in pub.dev that do this .env configuration, but most require extra code generation.
+> ⭐ So I created my own .env interpreter, no extra code, no adding packages, simple and easy ⭐
