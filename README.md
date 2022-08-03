@@ -36,5 +36,24 @@ import 'utils/environment/custom_env.dart';
 ```
 > The import path may change depending on the directory where the **environment** folder is placed.
 
+7. ##### Finally, just assign the folder, remembering to use await, in the service that uses variables that can change (example: FirebaseID, FacebookID, AppleID, GoogleMaps API, API URL etc):<br>
+``` dart
+void main() async {
+  API().initialize(
+    server_address: await CustomEnv.get<String>(key: "server_address"),
+    server_port: await CustomEnv.get<int>(key: "server_port")
+  )
+}
+```
 
+8. ##### Give the repository a star, please. ⭐
+##   
+![banner](https://user-images.githubusercontent.com/65248543/178626556-c6c91706-b03e-4116-bc8b-99619e6095c0.png)
 
+## 🤓 Author(s)
+##### João Lucas Ávila 
+
+![avatar2-apresentavel](https://user-images.githubusercontent.com/65248543/182529038-fbd6084e-a67e-4f13-a27f-d593187901a0.png)
+
+[<img src="https://img.shields.io/badge/-Instagram-purple"/>](https://www.instagram.com/avila_jao/)
+[![badge-github](https://img.shields.io/github/followers/jolucas245?style=social)](https://github.com/jolucas245/)
