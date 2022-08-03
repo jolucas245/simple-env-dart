@@ -31,9 +31,9 @@ $ git clone https://github.com/jolucas245/simple-env-dart.git
 ![env](https://user-images.githubusercontent.com/65248543/182527609-fcef19f7-6b4e-4e7d-94c8-8ef01882d1dd.png)
 
 6. ##### Import the custom_env.dart file:<br>
-''' dart
+``` dart
 import 'utils/environment/custom_env.dart';
-'''
+```
 > The import path may change depending on the directory where the **environment** folder is placed.
 
 
