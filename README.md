@@ -47,8 +47,9 @@ void main() async {
 ```
 
 8. ##### Give the repository a star, please. ⭐
+
 ##   
-![banner](https://user-images.githubusercontent.com/65248543/178626556-c6c91706-b03e-4116-bc8b-99619e6095c0.png)
+![banner](https://user-images.githubusercontent.com/65248543/182529973-607c3d39-bae9-4c8e-be2b-e6d9e4c6ab33.png)
 
 ## 🤓 Author(s)
 ##### João Lucas Ávila 
