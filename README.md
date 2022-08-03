@@ -26,3 +26,13 @@ $ git clone https://github.com/jolucas245/simple-env-dart.git
 
 4. ##### Create a file called .env at the root of your project:<br>
 ![dart](https://user-images.githubusercontent.com/65248543/182527337-eee54a1f-4254-47d3-914c-8a8e39087499.png)
+
+5. ##### Inside the .env file, you must put your environment variables. The image below shows an example of how to do this:<br>
+![env](https://user-images.githubusercontent.com/65248543/182527609-fcef19f7-6b4e-4e7d-94c8-8ef01882d1dd.png)
+
+
+
+
+
+
+
